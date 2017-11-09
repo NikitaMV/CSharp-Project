@@ -1,0 +1,12 @@
+C:\Users\Никита\Desktop\airplanes\Plane_1\Plane_1\bin\Debug\Plane_1.exe.config
+C:\Users\Никита\Desktop\airplanes\Plane_1\Plane_1\bin\Debug\Plane_1.exe
+C:\Users\Никита\Desktop\airplanes\Plane_1\Plane_1\bin\Debug\Plane_1.pdb
+C:\Users\Никита\Desktop\airplanes\Plane_1\Plane_1\obj\Debug\Plane_1.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\airplanes\Plane_1\Plane_1\obj\Debug\Plane_1.Form1.resources
+C:\Users\Никита\Desktop\airplanes\Plane_1\Plane_1\obj\Debug\Plane_1.Properties.Resources.resources
+C:\Users\Никита\Desktop\airplanes\Plane_1\Plane_1\obj\Debug\Plane_1.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\airplanes\Plane_1\Plane_1\obj\Debug\Plane_1.exe
+C:\Users\Никита\Desktop\airplanes\Plane_1\Plane_1\obj\Debug\Plane_1.pdb
+D:\Универ\Системы реального времени\Zadania_5_kurs_PI_2016_2017\Задания  5  курс  ПИ  2016  2017\Мядель Никита 2\Plane_1\Plane_1\bin\Debug\Plane_1.exe.config
+D:\Универ\Системы реального времени\Zadania_5_kurs_PI_2016_2017\Задания  5  курс  ПИ  2016  2017\Мядель Никита 2\Plane_1\Plane_1\obj\Debug\Plane_1.exe
+D:\Универ\Системы реального времени\Zadania_5_kurs_PI_2016_2017\Задания  5  курс  ПИ  2016  2017\Мядель Никита 2\Plane_1\Plane_1\obj\Debug\Plane_1.pdb
